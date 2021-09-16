@@ -1,0 +1,19 @@
+{
+  "name": "myapiproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufalikaraca0/myapiproject.git"
+  },
+  "author": "yusufalikaraca0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufalikaraca0/myapiproject/issues"
+  },
+  "homepage": "https://github.com/yusufalikaraca0/myapiproject#readme"
+}
